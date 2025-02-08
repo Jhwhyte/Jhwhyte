@@ -3,4 +3,4 @@
 - 💻 Full-stack developer experienced in designing, building, and optimizing scalable applications  
 - 🔐 Passionate about performance, security, and writing clean, maintainable code  
 - 🌱 Always learning and exploring DevOps, cloud computing, and AI-driven solutions
-- ✨ I’m looking to collaborate on opensource projects
+- ✨ Looking to collaborate on opensource projects
